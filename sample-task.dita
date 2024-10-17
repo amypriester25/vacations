@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="sample-task">
+    <title>sample-task</title>
+    <shortdesc>This is a sample description for a sample task.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_agc_x3t_bdc">
+            <ul id="ul_xkw_y3t_bdc">
+                <li>List Item </li>
+                <li>Second List Item</li>
+            </ul>
+        </prereq>
+        <context>This is context for the task. </context>
+        <steps>
+            <step>
+                <cmd>Command</cmd>
+                <info>
+                    <note id="note_ah3_jjt_bdc" type="danger">Be careful</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Next Command</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

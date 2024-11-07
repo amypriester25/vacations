@@ -2,4 +2,5 @@
 <val>
     <prop action="exclude" att="product" val="mid"/>
     <prop action="exclude" att="product" val="economy"/>
+    <prop action="include" att="product" val="luxury"/>
 </val>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <prop action="include" att="product" val="mid"/>
+    <prop action="include" att="product" val="economy"/>
+    <prop action="exclude" att="product" val="luxury"/>
+</val>

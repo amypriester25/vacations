@@ -2,7 +2,7 @@
 
 ## Economy Package 
 
-Includes a lovewly ride on the BT two-town trolly. 
+Includes a lovely ride on the BT two-town trolly. 
 
 ## Mid-range Package 
 
